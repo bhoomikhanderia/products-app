@@ -1,8 +1,8 @@
-# React Products App
+# React Boiler Plate
 
 ---
 
-This is a products shopping application built in react which will allow user to add product into cart, allow to change qty, display total and checkout.
+This is a react-redux boiler plate with Babel and Webpack
 
 ## Requirements
 
@@ -24,7 +24,7 @@ For mac os, run following commands to install node & yarn
 
 ```
 1. Download code from link provided
-2. $ cd products
+2. $ cd react-redux-boilerplate
 3. $ yarn install
 ```
 
