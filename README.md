@@ -56,8 +56,8 @@ $ yarn test
 - Redux
 - Redux-saga as middleware
 - Saas for CSS
-- Webpack as buid tool
-- Bable as ES6 & JSX transpiler
+- Webpack as build tool
+- Babel as ES6 & JSX transpiler
 - Jest as test runner
 - Enzyme as testing framework
 
